@@ -8,8 +8,4 @@ class A():
 c = A()
 # print(c._a)
 print(c._A__b)
-print(c._A__b)
-print(c._A__b)
-print(c._A__b)
-print(c._A__b)
 c.zz()
