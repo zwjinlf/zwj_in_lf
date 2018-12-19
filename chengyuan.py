@@ -6,7 +6,7 @@ class A():
         print("123460")
 
 c = A()
-# print(c._a)
+#print(c._a)
 print(c._A__b)
 
 c.zz()
